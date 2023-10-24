@@ -6,4 +6,4 @@ Machine learning has been of significant help as it has helped businesses in abu
 
 Our task is to build a model that predicts the total ride duration of taxi trips in New York City. Our primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
 
-<img>https://user-images.githubusercontent.com/67505914/201517334-eb12a7b1-9825-4560-8d83-a653b8bbe735.png</img>
+<img src='https://user-images.githubusercontent.com/67505914/201517334-eb12a7b1-9825-4560-8d83-a653b8bbe735.png' />
